@@ -14,15 +14,6 @@ A multi-agent AI-powered Copilot system designed to enhance productivity, automa
 
 ---
 
-## Folder Structure
-
-- `3P-LLM/` – Agent focused on three-phase LLM tasks.
-- `GraspXL/` – Enhanced document understanding and summarization.
-- `InterDreamer/` – Agent for creative ideation and interaction.
-- `ModaLink/` – Possibly focused on code linking or fashion use-cases.
-
----
-
 ## Agents Overview
 
 Each of these `.py` files defines an individual AI agent:
@@ -57,7 +48,7 @@ cd copilot_project
 pip install -r requirements.txt
 
 # Set your API key
-echo "OPENAI_API_KEY=your-api-key" > api_key.env
+echo "GEMINI_API_KEY=your-api-key" > api_key.env
 ```
 
 ---
