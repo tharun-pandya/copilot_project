@@ -78,6 +78,6 @@ This project is part of an exploration into **AI assistant development**, proble
 
 ## Author
 
-Developed by **Tharun Pandya**
-Email: ktharunpandya@gmail.com
-LinkedIn : https://linkedin.com/in/tharun-pandya-kodi
+- Developed by **Tharun Pandya**
+- Email: ktharunpandya@gmail.com
+- LinkedIn : https://linkedin.com/in/tharun-pandya-kodi
